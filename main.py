@@ -1,4 +1,3 @@
-#Aerodynamic-Calculator
 print('1) DRAG\n2) LIFT\n3) THRUST\n4) REYNOLDS NUMBER')
 inp = input()
 
